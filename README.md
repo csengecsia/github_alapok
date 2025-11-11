@@ -1,5 +1,4 @@
 # github_alapok
-
-Bence projektje:
+Ida projektje:
 
 Bemutatkozás, és kiemelt projekjeim
